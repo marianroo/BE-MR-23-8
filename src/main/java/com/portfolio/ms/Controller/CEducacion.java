@@ -39,6 +39,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class CEducacion {
     
      @Autowired
+
+     
     SEducacion sEducacion;
      
      
